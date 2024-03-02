@@ -1,0 +1,10 @@
+{
+    "key.categories.hearts.position": "Hearts Position Mod",
+    "key.binding.hearts.position": "Hearts Position Key",
+    "key.binding.hearts.position.x.up": "X-axis up",
+    "key.binding.hearts.position.x.down": "X-axis down",
+    "key.binding.hearts.position.y.up": "Y-axis up",
+    "key.binding.hearts.position.y.down": "Y-axis up",
+    "text.autoconfig.heartsposition.option.adjustHeartPosX": "Adjust X-axis",
+    "text.autoconfig.heartsposition.option.adjustHeartPosY": "Adjust Y-axis"
+}

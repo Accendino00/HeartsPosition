@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "net.hearts.position.mixin.client",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"HeartsMixin"
+	],
+	"client": [
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
